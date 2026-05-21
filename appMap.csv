@@ -1,0 +1,2 @@
+name,curr_run_time_mins,threshold_time_mins,kill_process
+cs2.exe,14,120,0
