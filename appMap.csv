@@ -1,2 +1,3 @@
 name,curr_run_time_mins,threshold_time_mins,kill_process
-cs2.exe,14,120,0
+cs2.exe,0,60,0
+Discord.exe,0,2,0
